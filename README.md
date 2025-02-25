@@ -1,4 +1,3 @@
 # my-first-repo
-hello!
-
-
+Hello!
+Welcome to my repo! 
